@@ -8,6 +8,7 @@
 
 .contenedor{
 	width: 100%;
+
 	height: auto;
 	background-color: #FFF;
 
@@ -16,6 +17,8 @@
 
 .contenedorFondo{
 	width: 100%;
+	padding: 15px;
+	margin: auto;
 	max-width: 1300px;
 	margin: auto;
 	display: block;
